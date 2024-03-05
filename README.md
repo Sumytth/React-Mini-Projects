@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This repository contains six mini projects implemented in React. Each project is located in the App.js file, and you can uncomment any project to view it in action.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
