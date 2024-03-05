@@ -1,0 +1,37 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Bungee+Outline&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+  /* font-family: "Bungee Outline", sans-serif; */
+  
+.box{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1{
+  font-size: 6vw;
+  font-family: "Bungee Outline", sans-serif;
+  line-height: 7vw;
+  text-align: center;
+}
+
+.btn{
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 4px;
+  height: 2.5rem;
+  width: 5rem;
+  position: absolute;
+  top:20px;
+  right:40px;
+}
+                             
+
